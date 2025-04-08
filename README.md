@@ -39,3 +39,16 @@ cd client
 ng serve
 ```
 7. Open your browser and navigate to `http://localhost:4200` to view the application.
+
+## Features
+- User registration and login
+- User profile management
+- Post creation and viewing
+- Commenting on posts
+- Search functionality
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
